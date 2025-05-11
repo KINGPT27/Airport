@@ -1,0 +1,5 @@
+1001,john_doe,password123,customer,John Doe,john@example.com,1234567890
+2001,agent_smith,agent123,agent,Agent Smith,agent@example.com,9876543210
+3001,admin,admin123,admin,System Admin,admin@example.com,5551234567
+-668808,pete,2401242718,customer,Peter Fadel Nabil,peterfadel@gmail.com,01012345678
+78620,hamza,hamza123,admin,Hamza Ahmed Mohammed,hamzaahmed@admin.com,01112345678
